@@ -9,6 +9,3 @@ def solution(angle):
         return 3
     elif angle == 180:
         return 4
-
-
-print(solution(80))
